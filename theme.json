@@ -1,0 +1,9 @@
+{
+    "id": "nodebb-theme-nodejsvn",
+    "name": "Nodejs Forum Theme for NodeBB",
+    "description": "A simple theme for NodeBB",
+    "url": "https://www.github.com/NgaNguyenDuy/nodebb-theme-nodejsvn",
+    "screenshot": null,
+    "templates": "templates",
+    "staticDir": "static"
+}
