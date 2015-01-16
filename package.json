@@ -1,0 +1,26 @@
+{
+    "name": "nodebb-theme-nodejsvn",
+    "version": "0.0.1",
+    "description": "Nodebb theme for nodejs.vn forum",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NgaNguyenDuy/nodebb-theme-nodejsvn.git"
+    },
+    "keywords": [
+        "nodebb",
+        "theme"
+    ],
+    "author": "NgaNguyenDuy",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/NgaNguyenDuy/nodebb-theme-nodejsvn/issues"
+    },
+    "peerDependencies": {
+        "nodebb-theme-vanilla": "^0.2.0"
+    }
+    "homepage": "https://github.com/NgaNguyenDuy/nodebb-theme-nodejsvn"
+}
